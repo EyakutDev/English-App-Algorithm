@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939415049948",
+    "project_id": "ingilizce-kelime-app",
+    "storage_bucket": "ingilizce-kelime-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939415049948:android:fff9cac562e69bcc9f4619",
+        "android_client_info": {
+          "package_name": "com.example.algorithm_101"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoysbLUj9f-91gFgmUBo0FNKAdA88YIhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
